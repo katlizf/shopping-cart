@@ -8,4 +8,4 @@ Shopping cart app created with the help of a [Udemy course](https://specs.udemy.
 * Using useEffect with Redux
 * Handling Http states and feedback with Redux
 * Using an action creator thunk
-* Fetching data (utilizing Firebase)
+* Fetching data (utilizing Firebase)# shopping-cart
